@@ -12,7 +12,12 @@
 
 2. Open index.html directly or run `live server`
 
-3. Enjoy the app..
+3. Enjoy the app
+
+
+### OR
+
+1. Open this url : https://arploit.github.io/offline_Todo/
 
 
 
