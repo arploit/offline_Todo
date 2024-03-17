@@ -3,6 +3,8 @@
 
 ### This todo app is special although it is very simple but I created this while I was on the flight.
 
+> So no internet... :P
+
 
 ## How to Run this app
 
